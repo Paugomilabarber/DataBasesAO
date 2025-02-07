@@ -1,0 +1,1 @@
+SELECT * FROM exercici4.Venedor;

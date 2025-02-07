@@ -1,0 +1,1 @@
+SELECT * FROM exercici2C.Professor;

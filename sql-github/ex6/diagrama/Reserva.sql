@@ -1,0 +1,1 @@
+SELECT * FROM exercici6.Reserva;
